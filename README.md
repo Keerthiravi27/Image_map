@@ -236,7 +236,8 @@ ramco.html
 
 '''
 # OUTPUT
-![alt text](keerthi/mapapp/static/map.png)
+![Screenshot 2025-04-11 204711](https://github.com/user-attachments/assets/b238d443-d435-4c7e-b4c5-ad9918a0111f)
+
 
 ![alt text](keerthi/mapapp/static/damro.png)
 
