@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''
+```
 map.html
 
 <html>
@@ -234,7 +234,7 @@ ramco.html
 </html>
 
 
-'''
+```
 # OUTPUT
 ![Screenshot 2025-04-11 204711](https://github.com/user-attachments/assets/b238d443-d435-4c7e-b4c5-ad9918a0111f)
 
